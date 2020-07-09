@@ -1,4 +1,4 @@
-// 颠倒给定二进制的 32 位无符号证书的二进制位
+// 颠倒给定二进制的 32 位无符号整数的二进制位
 public class Solution
 {
     public uint reverseBits(unint n)
