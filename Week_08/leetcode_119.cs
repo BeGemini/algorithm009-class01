@@ -1,6 +1,6 @@
 public class Solution
 {
-    // x&(x-1) 清零最低位的1
+    // x&(x-1) 清零最低位的 1
     public int HammingWeight(unint n)
     {
         int num = 0;
